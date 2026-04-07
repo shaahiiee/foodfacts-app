@@ -1,3 +1,4 @@
+//FoodCard
 function FoodCard({ product }) {
   const { product_name, brands, nutriments, image_small_url } = product;
 
